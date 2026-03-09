@@ -11,7 +11,7 @@ export default function App() {
 
   const studentInfo = {
     name: "M. Sree Harsha",
-    registerNo: "2500031608",
+    registerNo: "2500031858",
     department: "Computer Science"
   };
 
